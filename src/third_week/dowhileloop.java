@@ -1,4 +1,4 @@
-package jpractice;
+package third_week;
 
 public class dowhileloop {
 	/* There is a lonely monkey in the island

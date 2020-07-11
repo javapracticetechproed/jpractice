@@ -1,4 +1,4 @@
-package jpractice;
+package second_week;
 
 import java.util.Scanner;
 
