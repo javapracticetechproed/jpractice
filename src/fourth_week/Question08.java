@@ -2,7 +2,7 @@ package fourth_week;
 
 import java.util.Scanner;
 
-public class Method_IFELSE_EmailDogrulama {
+public class Question08 {
 	/* Girilen e-mailin doðru olup olmadýðýný anlayan bir method yazýnýz.
 	 * Method boolean veri tipinde deðer döndersin.
 	 * 

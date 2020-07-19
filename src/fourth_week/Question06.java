@@ -2,7 +2,7 @@ package fourth_week;
 
 import java.util.Scanner;
 
-public class Method_Polindrom_While03 {
+public class Question06 {
 
 	/*	Girilen sayý ya metnin polindrom olup olmadýðýný kontrol eden bir method yazýnýz.
 	 *  method boolean olarak bir deðer return etsin.
